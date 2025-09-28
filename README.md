@@ -11,7 +11,8 @@ This project demonstrates how to interact with **Google Gemini**, Google’s adv
 
 ### 💻 How to Run in Colab
 
-1. Open Google Colab and upload the notebook.  
-2. Install required packages:  
-```bash
-!pip install google-gemini openai pandas numpy
+1. **Open Google Colab:** 
+2. **Clone and run locally**
+  ```bash
+   git clone https://github.com/your-username/your-repo.git
+#open the notebook in jupyter or colab 
