@@ -1,13 +1,23 @@
-## 🌟 Google Gemini LLM – Colab Implementation
 
-This project demonstrates how to interact with **Google Gemini**, Google’s advanced multimodal LLM, using **Google Colab** for easy experimentation and development.  
+## 🌟 Google Gemini LLM – Colab Project
+
+## 📖 About This Project  
+
+This project is built using **Google Colab** to experiment with **Google Gemini LLM**.  
+It demonstrates **text generation, summarization, and multimodal AI** capabilities in an easy-to-run notebook.  
+Users can interact with the model, analyze outputs, and explore text, image, and audio data.  
+It provides a **hands-on learning experience** with one of the most powerful AI models today.  
+Perfect for building **AI prototypes** and exploring advanced **language + vision tasks**.  
+
+---
 
 ### 🔑 Features
 
 - 📝 Text generation, summarization, and question-answering  
 - 🖼️ Multimodal capabilities: process images, audio, and video along with text  
 - 🚀 Quick setup using Google Colab notebooks with pre-installed libraries  
-- 💻 Easy integration with Gemini API for research and experimentation  
+- 💻 Easy integration with Gemini API for research and experimentation
+ ---
 
 ### 💻 How to Run in Colab
 
